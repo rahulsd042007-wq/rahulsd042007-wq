@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
+<img src="./hud-header.svg" width="100%" alt="Rahul S D -  style profile header"/>
 
 <img src="./hud-pop.svg" width="100%" alt="Minion and gadgets animation"/>
 
