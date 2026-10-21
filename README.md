@@ -4,7 +4,7 @@
 
 <img src="./hud-pop.svg" width="100%" alt="Minion and gadgets animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=F5C242&center=true&vCenter=true&width=700&lines=ARDUINO+%7C+ESP32;SENSOR+INTERFACING;IoT+%26+EMBEDDED+SYSTEMS;BUILDING+THE+FUTURE+WITH+ELECTRONICS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=F5C242&center=true&vCenter=true&width=700&lines=ARDUINO+%7C+ESP32;5x+HACKATHON+WINNER;IoT+%26+EMBEDDED+SYSTEMS;BUILDING+THE+FUTURE+WITH+ELECTRONICS"/>
 
 <br/>
 
@@ -21,6 +21,9 @@
 > NAME        : Rahul S D
 > STATUS      : Final-year ECE student
 > FOCUS       : IoT-based embedded systems
+> ACHIEVEMENT : 5x Hackathon Winner
+> ROLES       : Joint Secretary - ECE Association | Technician - IoT Club
+> EXPERIENCE  : Ex-Intern, NIT Trichy
 > ACTIVE OPS  : FuelGuard+ | Smart Traffic Signal | Cable Fault Detector
 > DIRECTIVE   : Hardware x Software x Innovation
 ```
@@ -30,6 +33,17 @@
 <div align="center">
   <img src="./hud-modules.svg" width="100%" alt="Active modules"/>
 </div>
+
+---
+
+## 🏆 `MISSION LOG`
+
+| Category | Details |
+|---|---|
+| 🥇 **Hackathons** | 5x Winner |
+| 🎓 **ECE Association** | Joint Secretary |
+| 🤖 **IoT Club** | Technician |
+| 🏛️ **Internship** | NIT Trichy (Ex-Intern) |
 
 ---
 
