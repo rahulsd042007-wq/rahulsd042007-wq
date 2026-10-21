@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
+<img src="./hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=F5C242&center=true&vCenter=true&width=700&lines=ARDUINO+%7C+ESP32;SENSOR+INTERFACING;IoT+%26+EMBEDDED+SYSTEMS;BUILDING+THE+FUTURE+WITH+ELECTRONICS"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SCANS&color=F5C242&labelColor=020b14&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00E5FF&labelColor=020b14)
+![Profile Views](https://komarev.com/ghpvc/?username=rahulsd042007-wq&label=SCANS&color=F5C242&labelColor=020b14&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/rahulsd042007-wq?style=for-the-badge&logo=github&color=00E5FF&labelColor=020b14)
 
 </div>
 
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/hud-modules.svg" width="100%" alt="Active modules"/>
+  <img src="./hud-modules.svg" width="100%" alt="Active modules"/>
 </div>
 
 ---
@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=020b14&border_color=00E5FF&title_color=F5C242&icon_color=00E5FF&text_color=9fefff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&bg_color=020b14&border_color=00E5FF&title_color=F5C242&text_color=9fefff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulsd042007-wq&show_icons=true&hide_border=false&bg_color=020b14&border_color=00E5FF&title_color=F5C242&icon_color=00E5FF&text_color=9fefff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsd042007-wq&layout=compact&hide_border=false&bg_color=020b14&border_color=00E5FF&title_color=F5C242&text_color=9fefff"/>
 
 </div>
 
