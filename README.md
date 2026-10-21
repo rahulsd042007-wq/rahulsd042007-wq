@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
+<img src="./hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
 
-<img src="./assets/hud-pop.svg" width="100%" alt="Minion and gadgets animation"/>
+<img src="./hud-pop.svg" width="100%" alt="Minion and gadgets animation"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=F5C242&center=true&vCenter=true&width=700&lines=ARDUINO+%7C+ESP32;SENSOR+INTERFACING;IoT+%26+EMBEDDED+SYSTEMS;BUILDING+THE+FUTURE+WITH+ELECTRONICS"/>
 
@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/hud-modules.svg" width="100%" alt="Active modules"/>
+  <img src="./hud-modules.svg" width="100%" alt="Active modules"/>
 </div>
 
 ---
@@ -67,8 +67,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020b14?style=for-the-badge&logo=linkedin&logoColor=00E5FF&color=020b14&labelColor=020b14)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-020b14?style=for-the-badge&logo=gmail&logoColor=F5C242&color=020b14&labelColor=020b14)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020b14?style=for-the-badge&logo=linkedin&logoColor=00E5FF&color=020b14&labelColor=020b14)](https://www.linkedin.com/in/rahul-sd-4aa951326)
+[![Email](https://img.shields.io/badge/Email-020b14?style=for-the-badge&logo=gmail&logoColor=F5C242&color=020b14&labelColor=020b14)](mailto:rahulsd042007@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:F5C242,100:020b14&height=110&section=footer"/>
 
