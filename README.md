@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
+<img src="./assets/hud-header.svg" width="100%" alt="Rahul S D - JARVIS style profile header"/>
+
+<img src="./assets/hud-pop.svg" width="100%" alt="Minion and gadgets animation"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=F5C242&center=true&vCenter=true&width=700&lines=ARDUINO+%7C+ESP32;SENSOR+INTERFACING;IoT+%26+EMBEDDED+SYSTEMS;BUILDING+THE+FUTURE+WITH+ELECTRONICS"/>
 
@@ -19,7 +21,6 @@
 > NAME        : Rahul S D
 > STATUS      : Final-year ECE student
 > FOCUS       : IoT-based embedded systems
-> ROLES       : Technician @ IoT Club | Joint Secretary @ ECE Dept
 > ACTIVE OPS  : FuelGuard+ | Smart Traffic Signal | Cable Fault Detector
 > DIRECTIVE   : Hardware x Software x Innovation
 ```
@@ -27,17 +28,8 @@
 ---
 
 <div align="center">
-  <img src="./hud-modules.svg" width="100%" alt="Active modules"/>
+  <img src="./assets/hud-modules.svg" width="100%" alt="Active modules"/>
 </div>
-
----
-
-## 🎖️ `RESPONSIBILITIES`
-
-| Role | Where |
-|---|---|
-| 🔧 **Technician** | IoT Club |
-| 📋 **Joint Secretary** | Department of ECE |
 
 ---
 
@@ -66,18 +58,6 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulsd042007-wq&show_icons=true&hide_border=false&bg_color=020b14&border_color=00E5FF&title_color=F5C242&icon_color=00E5FF&text_color=9fefff"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsd042007-wq&layout=compact&hide_border=false&bg_color=020b14&border_color=00E5FF&title_color=F5C242&text_color=9fefff"/>
-
-</div>
-
----
-
-## 🍌 `MISSION BRIEFING`
-
-<div align="center">
-
-### 🟡 *"Every great system starts as one small circuit."* 🟡
-
-🍌 **BELLO!** &nbsp;&nbsp; 🍌 **BANANA!** &nbsp;&nbsp; 🍌 **POOPAYE!** 🍌
 
 </div>
 
